@@ -1,4 +1,4 @@
-package neo_gen;
+package kr.etoursoft;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

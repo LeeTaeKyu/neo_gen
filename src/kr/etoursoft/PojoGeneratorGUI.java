@@ -1,4 +1,4 @@
-package neo_gen;
+package kr.etoursoft;
 
 import java.io.File;
 
