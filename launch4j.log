@@ -11,7 +11,7 @@ Java min ver:
 Java max ver:
 JRE paths:	C:\OMEGA_DEVPTB\jdk-11.0.12\bin
 Check launcher:	C:\OMEGA_DEVPTB\jdk-11.0.12\bin\javaw.exe (OK)
-Version string: 1.011.000_012 / 64-Bit (OK )
+Version string: 1.011.000_012 / 64-Bit ( OK )
 Main class:	neo_gen.PojoGenerator
 Info:		Classpath not defined.
 Launcher:	C:\OMEGA_DEVPTB\jdk-11.0.12\bin\javaw.exe
