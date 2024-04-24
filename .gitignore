@@ -1,0 +1,51 @@
+HELP.md
+README.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+logs/
+!**/src/main/**/cache/
+cache/
+
+### AmaterasUML ###
+*.cld
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### testcode ###
+src/main/java/uml
+### testcode ###
+src/main/java/kr/etoursoft/omega/api/testtemp/
+src/main/resources/mappers/oracle/api/testtemp/
+src/main/java/kr/etoursoft/JasyptEncryptor.java
